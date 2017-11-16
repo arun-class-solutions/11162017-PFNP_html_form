@@ -1,3 +1,7 @@
+body {
+	font-family: 'Monsieur La Doulaise', cursive;
+}
+
 .small-container {
 	max-width:700px;
 	margin-left:auto;
